@@ -2586,7 +2586,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "af92498d8ce19d1b7e8dfedbb7232b0c84a5ed68b0ce3d2e64a3bd16c3907f5b"
+hash = "075230c99433eb239987798602945c41d2036428fbb118d9bc6387a448b7a567"
 metafile = true
 
 [[files]]
@@ -3729,7 +3729,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "0f5f059dda8424eb1bfb9fcc0ee54806bde95408f954f35725364e6794218fc0"
+hash = "8c152d598f15f5a3e8367246ccf11a597001e3a174fab6bdec68c539d31445dc"
 metafile = true
 
 [[files]]
