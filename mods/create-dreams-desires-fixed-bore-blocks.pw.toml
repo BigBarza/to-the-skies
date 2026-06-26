@@ -1,6 +1,6 @@
 filename = 'DnDesires-1.21.1-2.4a-BETA_bore_fix_2.jar'
 name = 'Create: Dreams & Desires (fixed Bore Blocks)'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '7f35a1872b0917d7ce1bf1071e5d9d1e523dcc9f'

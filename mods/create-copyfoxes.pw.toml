@@ -1,6 +1,6 @@
 filename = 'copyfoxies-2.0.0.jar'
 name = 'Create: Copyfoxes'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'dcb94ec28a4418b5a995fb1fa122ca64faeec712'

@@ -1,6 +1,6 @@
 filename = 'betterdays-1.21.1-3.3.6.3-NEOFORGE.jar'
 name = 'Better Days'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '0beeb796055f8abdebb9304fe26b655068a52a9c'

@@ -1,6 +1,6 @@
 filename = 'compactgearbox-1.0.2.jar'
 name = 'Create: Compact Gearbox - Transmisson'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'c2c3b4cee586876b12356a8d8ac42cd44cda9edc'

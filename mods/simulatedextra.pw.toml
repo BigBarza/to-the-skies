@@ -1,6 +1,6 @@
 filename = 'simulatedextra-0.2.5-beta.jar'
 name = 'Simulated Extra'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '3f2f7c6db4dda9777950f28b9e1abdbfef3b39e1'

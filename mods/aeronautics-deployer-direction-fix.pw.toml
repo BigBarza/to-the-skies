@@ -1,6 +1,6 @@
 filename = 'deployer_got_dizzy-0.1.2.jar'
 name = 'Aeronautics:Deployer Direction Fix'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '69612ac5675840de8847507ef029e28a9c929494'

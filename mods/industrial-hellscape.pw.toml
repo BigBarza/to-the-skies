@@ -1,6 +1,6 @@
 filename = 'industrialhellscape-1.0.3.jar'
 name = 'Industrial Hellscape'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '8c776a466c49c8a37335e2e3aad72c8830aca65f'

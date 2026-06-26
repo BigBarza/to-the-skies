@@ -93,10 +93,6 @@ file = "config/allurement-common.toml"
 hash = "bc53c3638b1214fa8dfb1954fd7a914e004f6b9d55ba82568d43893bd12288df"
 
 [[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
-
-[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
@@ -2485,7 +2481,7 @@ metafile = true
 
 [[files]]
 file = "mods/aeronautics-deployer-direction-fix.pw.toml"
-hash = "9dd3fac92af81196ab37c5017cc74ee34eacf555961eaa303237aff55bee33c7"
+hash = "7fca65080517bbb7e358904d0f4fe9ed1d98e68f676a9140a72847c9db6c3996"
 metafile = true
 
 [[files]]
@@ -2565,7 +2561,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "e59b4b360e7af0128cb7a3e75ec69c3b192fccd1373adce68c9759142b4ed223"
+hash = "48a3c515ddf84f0492afd553dad0c755ae654a18c803bf8b26bf608a47904a73"
 metafile = true
 
 [[files]]
@@ -2595,7 +2591,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "291ab7a5c54cb8ab9a699744983fc0bb0f37955be50dd3d3cdaa0d9ac699fe26"
+hash = "dc24c5012e46438100f09220c9f688154bfad78fb387cb94464439707571b99d"
 metafile = true
 
 [[files]]
@@ -2739,7 +2735,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "d893ef7af0d185cab538cca5900539cb616516dbe086ea0ef5e6c99d6a6d0aa8"
+hash = "fa3f8785b975147b66af1d1ccdfce6b6b15858c7ee98dc1dbd65193c191f4fa4"
 metafile = true
 
 [[files]]
@@ -2749,7 +2745,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "c62a426126a75e83a527a24d2dd9725727ede29ec9f63ab025686fb699b04b29"
+hash = "3b7b96fc3cf101311e40d184d35ba887ea3619abab60bcefa5ae091a16dcb911"
 metafile = true
 
 [[files]]
@@ -2779,7 +2775,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
-hash = "aa8cb4da0da67968e40cbd30c47f9834a0472d9052e503183856deec0a996c9c"
+hash = "8e34c69f9e1229e5f4de1c632091e2723d0978234fc3dfe245779d01d1335c65"
 metafile = true
 
 [[files]]
@@ -2829,12 +2825,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-compact-flap.pw.toml"
-hash = "86395b636c1705fa226717557b71ac3764c4a0c3eac7946ecde7d35f47a831ed"
+hash = "f2177cd2b78662bc1ed6bd66f741738aeae06961a365e43b83c52a18b6ee9eff"
 metafile = true
 
 [[files]]
 file = "mods/create-compact-gearbox-transmisson.pw.toml"
-hash = "c5fdb1b99d7b2ced1129559b44e682b5f72b2e5c917aff8b0ef4d649118874dd"
+hash = "8c1fb46c63204b3705a8589146ad4d615a549a819d84015051740bdc18ae8a2f"
 metafile = true
 
 [[files]]
@@ -2844,7 +2840,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-copyfoxes.pw.toml"
-hash = "1251fcdae339ce8d24107e764bed65f8a937cec0bd09b13790af39b12cb9aa75"
+hash = "d3f23b5c80bbdd20258d2bb78dad164281b10a4dd09e76645a6ffff0b5ac3da1"
 metafile = true
 
 [[files]]
@@ -2869,7 +2865,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-desires-fixed-bore-blocks.pw.toml"
-hash = "26c86f71696a4ef3d1ccd44cf688034fbc21547c1baa8ba45bf54a633f00f0d9"
+hash = "57e9051d0765798ff808b5e55375687fe89d96ee4873559e325f6d2767a3f612"
 metafile = true
 
 [[files]]
@@ -3213,7 +3209,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-hellscape.pw.toml"
-hash = "8f20246b5bb1e8c125977fd730cb1b0e4f4997ea46cbdd085c0a1e34e2c30470"
+hash = "7c5b0e5b0508f0da2c541998c10bd9aac6203b6f9214df40434b70a25cbbf10b"
 metafile = true
 
 [[files]]
@@ -3258,7 +3254,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting-neo.pw.toml"
-hash = "9ecc925934d8367b5f97ab62ebe50fc3210fbb2814406277cd87b202ffcb0cf1"
+hash = "7150bc2bdd03578bbbfa5ab3f6c93176fb8dba2fa9c9a1edf1f9a0e6ddbfb4e1"
 metafile = true
 
 [[files]]
@@ -3298,7 +3294,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "930f0d0a066f07624f2f5f85523315e2d49b4b351687d425bbd24e884cf883cb"
+hash = "223c38b6f9ccc909f003203a96c667b7dd74a954f98126b6273d89d61b093cea"
 metafile = true
 
 [[files]]
@@ -3373,7 +3369,7 @@ metafile = true
 
 [[files]]
 file = "mods/minimotd.pw.toml"
-hash = "33a66d30ee35ec280344de68de0579c407c3ccdd66617589b4dfaae11ed37c52"
+hash = "7795af3bb394492bebbfe141c57e1c0065f33bb47e1d709afae545e3b0252511"
 metafile = true
 
 [[files]]
@@ -3598,7 +3594,7 @@ metafile = true
 
 [[files]]
 file = "mods/simulatedextra.pw.toml"
-hash = "073b550a7dc3872aecc27022a2ea1838b4462852006059f05233291b5153706e"
+hash = "86f6254158d0b3b12772c55442653ed9c964965ac9cf6a8442cbb80ff98f9c0b"
 metafile = true
 
 [[files]]
@@ -3783,7 +3779,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "7e4b693060e346f9dc5f4a3f07ad1bd0a6e62abb3afc577aa27d0bef37100c94"
+hash = "f344eb4992a556af02c72f6dae12869aab63118a7a8aff7ea43609a12c769fd9"
 metafile = true
 
 [[files]]

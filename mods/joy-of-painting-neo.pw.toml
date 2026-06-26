@@ -1,6 +1,6 @@
 filename = 'xercapaint-1.21.1-1.1.2.jar'
 name = 'Joy of Painting Neo'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '66672f5ba6454d2c22df98f25f996f02b14b589a'
