@@ -1,3 +1,4 @@
+/*
 LootJS.lootTables(event => {
     event
         .getLootTable("adorablehamsterpets:blocks/cucumber_crop")
@@ -20,3 +21,4 @@ LootJS.lootTables(event => {
             return entry
         })
 })
+*/

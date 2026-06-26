@@ -1,21 +1,14 @@
 filename = 'compactgearbox-1.0.2.jar'
 name = 'Create: Compact Gearbox - Transmisson'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'compactgearbox-1.0.2.jar'
+side = 'both'
 
 [download]
 hash = 'c2c3b4cee586876b12356a8d8ac42cd44cda9edc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8026557
 project-id = 1527808
 
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'

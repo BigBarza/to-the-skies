@@ -1,35 +1,6 @@
 filename = 'trample_prevention-1.21.x-neoforge.jar'
 name = 'Trample Prevention'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [
-    '1.21',
-    '1.21',
-    '1.21.1',
-    '1.21.1',
-    '1.21.10',
-    '1.21.10',
-    '1.21.11',
-    '1.21.11',
-    '1.21.2',
-    '1.21.2',
-    '1.21.3',
-    '1.21.3',
-    '1.21.4',
-    '1.21.4',
-    '1.21.5',
-    '1.21.5',
-    '1.21.6',
-    '1.21.6',
-    '1.21.7',
-    '1.21.7',
-    '1.21.8',
-    '1.21.8',
-    '1.21.9',
-    '1.21.9'
-]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.x'
+side = 'both'
 
 [download]
 hash = '207f562b0bbf82aebcfed9374f2145e1afac7277c3842f5a697aeaa9aba629fae8740a8efe028b1a1533f307e91c1f69833139f02675d245eb830c6a9c830ada'

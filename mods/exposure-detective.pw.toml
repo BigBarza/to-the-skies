@@ -1,11 +1,6 @@
 filename = 'ExposureDetective-1.21.1-1.0.1.jar'
 name = 'Exposure: Detective'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.0.1'
+side = 'both'
 
 [download]
 hash = 'bda95bac71ff6fa41fa4c9b9f927a6d655e02535f06aae120b6b861fcbede8929ab2866678e6b39c50afb7438699253de5ae20cc0b6698e9bf226ad78b420438'

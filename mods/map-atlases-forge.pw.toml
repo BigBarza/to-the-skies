@@ -1,10 +1,6 @@
 filename = 'map_atlases-neoforge-1.21-6.6.0.jar'
 name = 'Map Atlases'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21-6.6.0'
+side = 'both'
 
 [download]
 hash = '5786ab1a239ba04f32b85a175c0804a541340ec907527cc0a550b3628d48565349c0a55d13e33e8a72ecdc3f3bb2bd636490ca6ac6abea49b373b772555b5375'
@@ -16,6 +12,3 @@ url = 'https://cdn.modrinth.com/data/4hwXMFif/versions/74IL0dDS/map_atlases-neof
 mod-id = '4hwXMFif'
 version = '74IL0dDS'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'twkfQtEc'
-type = 'REQUIRED'

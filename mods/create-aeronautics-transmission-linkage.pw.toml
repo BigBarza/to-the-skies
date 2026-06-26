@@ -1,11 +1,6 @@
 filename = 'create_aeronautics_transmission_linkage-0.2.3.jar'
 name = 'Create Aeronautics: Transmission & Linkage'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.2.3'
 
 [download]
 hash = 'ede79082022149386309784020187a448346e04b4f347797f12b7da63c020d5b73bf11fd3f0f7b6d9593589508b803c9ff1c7f4382a8cbb6bab226397d732e4f'

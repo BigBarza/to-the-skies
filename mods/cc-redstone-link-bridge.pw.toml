@@ -1,10 +1,6 @@
 filename = 'ccredstonelinkbridge-neoforge-1.0.3.jar'
 name = 'CC: Redstone Link Bridge'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.3'
+side = 'both'
 
 [download]
 hash = 'd7a1cb8d4b02a25bdbebd6893e94cfb1d0702a534f9168886dcf82bec9cc6c4190dbcd0dbc11701fe0cff9b5a38fb9331874249dc7ced4fbc2e9b4dd1645e984'

@@ -1,4 +1,7 @@
+//DISABLED DUE TO RESPAWNING ANIMALS MOD BEING REMOVED
+
 //Fun fact, there USED to be a way to do this without loading java classes. Well, not anymore!
+/*
 const Registries = Java.loadClass("net.minecraft.core.registries.BuiltInRegistries")
 
 ServerEvents.tags('entity_type', event => {
@@ -21,3 +24,4 @@ ServerEvents.tags('entity_type', event => {
     });    
     
 })
+*/

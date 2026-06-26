@@ -65,10 +65,10 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'dndesires:crafting/inverse_gearshift'})
     event.remove({ id: 'dndesires:crafting/handheld_saw'})
     event.remove({ id: 'dndesires:crafting/handheld_drill'})
-    event.remove({ id: 'dndesires:hydraulic_compatcing/veridium_gen'})
-    event.remove({ id: 'dndesires:hydraulic_compatcing/asurine_gen'})
-    event.remove({ id: 'dndesires:hydraulic_compatcing/crimsite_gen'})
-    event.remove({ id: 'dndesires:hydraulic_compatcing/ochrum_gen'})
+    event.remove({ id: 'dndesires:hydraulic_compacting/veridium_gen'})
+    event.remove({ id: 'dndesires:hydraulic_compacting/asurine_gen'})
+    event.remove({ id: 'dndesires:hydraulic_compacting/crimsite_gen'})
+    event.remove({ id: 'dndesires:hydraulic_compacting/ochrum_gen'})
 
     event.remove({id: 'createpropulsion:crushing/spruce_log'})
 

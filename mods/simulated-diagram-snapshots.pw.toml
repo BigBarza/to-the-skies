@@ -1,17 +1,12 @@
 filename = 'simulated_diagram_snapshots-1.0.3.jar'
 name = 'Simulated Diagram Snapshots'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'simulated_diagram_snapshots-1.0.3.jar'
+side = 'both'
 
 [download]
 hash = '0f38d03dcaedb06fc178b64f8318cb5bb7c6b84c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8252025

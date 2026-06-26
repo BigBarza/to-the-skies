@@ -164,7 +164,7 @@
 	#Allow propulsion burners to heat Create steam engines.
 	"Burners heat steam engines" = true
 	#Allow seething burners to count as superheated for steam engines.
-	"Burners superheat steam engines" = true
+	"Burners superheat steam engines" = false
 	#Allow vanilla blaze burners under stirling engines to provide heat.
 	"Blaze burners heat stirling engines" = true
 	#Fuel consumption multiplier for solid burners. Higher values make inserted items burn faster.

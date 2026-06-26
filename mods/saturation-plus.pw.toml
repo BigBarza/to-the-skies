@@ -1,11 +1,6 @@
 filename = 'saturation_plus-1.3.0-neoforge-1.21.jar'
 name = 'Saturation Plus'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.0-neoforge-1.21'
+side = 'both'
 
 [download]
 hash = 'bbae927c7e554ce32800ce6c6e709becb9aa455a992ea82d7dd2ceec26a178b21ebe25b2279f98d159f4717e872b88a02996a2f44e54980b08684436f4588ffc'
