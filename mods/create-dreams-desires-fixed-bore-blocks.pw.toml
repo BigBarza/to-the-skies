@@ -1,14 +1,13 @@
-filename = 'DnDesires-1.21.1-2.4a-BETA_bore_fix_2.jar'
-name = 'Create: Dreams & Desires (fixed Bore Blocks)'
-side = 'both'
+name = "Create: Dreams & Desires (fixed Bore Blocks)"
+filename = "createdndboreblockfix-1.0.0.jar"
+side = "both"
 
 [download]
-hash = '7f35a1872b0917d7ce1bf1071e5d9d1e523dcc9f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "df1c4fa840d25ff3a0e579859c755718ba73f69d"
+mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
-file-id = 8232691
+file-id = 8243988
 project-id = 1572229
-

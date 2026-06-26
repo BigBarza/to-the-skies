@@ -1,13 +1,13 @@
-filename = 'saturation_plus-1.3.0-neoforge-1.21.jar'
-name = 'Saturation Plus'
-side = 'both'
+name = "Saturation Plus"
+filename = "saturation_plus-1.3.1-neoforge-1.21.jar"
+side = "both"
 
 [download]
-hash = 'bbae927c7e554ce32800ce6c6e709becb9aa455a992ea82d7dd2ceec26a178b21ebe25b2279f98d159f4717e872b88a02996a2f44e54980b08684436f4588ffc'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/AgApeolo/versions/6QbARslx/saturation_plus-1.3.0-neoforge-1.21.jar'
+url = "https://cdn.modrinth.com/data/AgApeolo/versions/C7UkJ8vQ/saturation_plus-1.3.1-neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "93792a03414c5a5d26df6e159fc661454e6e7d7bbbd6e17686907b3e1ac3990ced0420a39f6f5b933e9a5e7df59c19070960e272594945364497f58b333a357b"
 
+[update]
 [update.modrinth]
-mod-id = 'AgApeolo'
-version = '6QbARslx'
+mod-id = "AgApeolo"
+version = "C7UkJ8vQ"
