@@ -8,6 +8,7 @@ hash-format = "sha512"
 hash = "ded870e90953ea915d24ac4c81799b95b321dda39936cd4cd620302b48882141fa3b9f1af658bdc6c25dc48de003223b91f3669b69efcc92c8666a3983f0fccc"
 
 [update]
+[update]
 [update.modrinth]
 mod-id = "DSVgwcji"
 version = "dGNP90t0"

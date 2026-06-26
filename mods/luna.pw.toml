@@ -1,11 +1,6 @@
 filename = 'luna_minecraft-neoforge-5.3.1.jar'
 name = 'Luna'
 side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.4', '1.21.5' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '5.3.1'
 
 [download]
 hash = 'd82be248dcb68efb048d97117d7d7b2816c64e9a0bcb3cbd008c8c61d5313f596c38b34512bbf8a15d8ef098f0f4ddfae75b05fc8575b5279aabf53aa9ca5fb2'

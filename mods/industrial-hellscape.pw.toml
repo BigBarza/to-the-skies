@@ -1,10 +1,6 @@
 filename = 'industrialhellscape-1.0.3.jar'
 name = 'Industrial Hellscape'
 side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '[NeoForge 1.21.1] InHell 1.0.3'
 
 [download]
 hash = '8c776a466c49c8a37335e2e3aad72c8830aca65f'
@@ -16,6 +12,3 @@ url = ''
 file-id = 8175736
 project-id = 1302110
 
-[[x-prismlauncher-dependencies]]
-addonId = '267602'
-type = 'REQUIRED'

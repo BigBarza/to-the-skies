@@ -1,11 +1,6 @@
 filename = 'create_tweaked_controllers-1.21.1-1.2.7.jar'
 name = 'Create: Tweaked Controllers'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.2.7'
 
 [download]
 hash = '9b2aa5fcf70afd97e2473bb3cd230119d95aeb4f7e7318cb44fd8959add97d0f22cbe660c6d43c9bdb25825b68f9a7a2c11e9c24d55a706bded72bc011ede270'

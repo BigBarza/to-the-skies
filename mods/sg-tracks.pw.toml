@@ -1,11 +1,6 @@
 filename = 'sg_tracks-1.2.0.jar'
 name = 'SG-Tracks'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.2.0'
 
 [download]
 hash = '084f756bff405000a588f43f171d8385de4a585557bd060239cf450be357ad650bf75e0a238d18d0e4cdddbd260c05981f0ab9e6df6f237832e67d25e62c13bc'
