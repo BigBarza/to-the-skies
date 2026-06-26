@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "group": "steamed_green_beans",
+  "ingredient": {
+    "item": "adorablehamsterpets:green_beans"
+  },
+  "result": {
+    "id": "kubejs:steamed_green_beans"
+  }
+}

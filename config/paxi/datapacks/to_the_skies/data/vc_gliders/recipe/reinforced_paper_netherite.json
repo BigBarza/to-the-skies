@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "vc_gliders:reinforced_paper"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "vc_gliders:reinforced_paper_netherite"
+  }
+}

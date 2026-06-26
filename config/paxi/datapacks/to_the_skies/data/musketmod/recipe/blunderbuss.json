@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "A  ",
+    " AB",
+    " CD"
+  ],
+  "key": {
+    "A": {
+      "item": "create:copper_sheet"
+    },
+    "B": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "D": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "musketmod:blunderbuss"
+  }
+}

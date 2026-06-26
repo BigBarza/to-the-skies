@@ -1,0 +1,25 @@
+filename = 'sort_it_out-neoforge-1.4.2+1.21.1.jar'
+name = 'Sort It Out!'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.2+1.21.1'
+
+[download]
+hash = '782169c40f26770d6c6e53a02973cd599cdf45f427b2c45034c47b70299b08ef7b7aa1973f72060906a93937ae3a799eb10af61cd81e1b98e6cf43fa26120c2d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jcOSOvm1/versions/li1Fe2Gv/sort_it_out-neoforge-1.4.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'jcOSOvm1'
+version = 'li1Fe2Gv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'IYY9Siz8'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

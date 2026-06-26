@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"aeronautics_dyeable_components:lime_large_tire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics_dyeable_components:cyan_levitite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"moderndeco:processor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"moderndeco:systemboard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:diesel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:diesel_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:ethanol"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:biodiesel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:gasoline"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:crude_oil"},"type":"fluid_stack","bookmarkType":"INGREDIENT"}
+]

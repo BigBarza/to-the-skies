@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "RSR",
+    "IAI"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "S": {
+      "item": "minecraft:redstone"
+    },
+    "R": {
+      "item": "simulated:rope_coupling"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "E": {
+      "tag": "aeronautics:shaftless_envelope"
+    }
+  },
+  "result": {
+    "id": "create_parachute:parachute_block"
+  }
+}

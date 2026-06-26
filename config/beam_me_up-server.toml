@@ -1,0 +1,51 @@
+[beam]
+	#SURFACE_ONLY scans to the first solid block beneath the projector, CONFIGURED_DISTANCE scans maxPickupDistance blocks, INFINITE scans safely to world min height.
+	#Allowed Values: SURFACE_ONLY, CONFIGURED_DISTANCE, INFINITE
+	pickupRangeMode = "INFINITE"
+	# Default: 96
+	# Range: 1 ~ 1024
+	maxPickupDistance = 96
+	#v1 logic is designed around width 3; other values are reserved for later.
+	# Default: 3
+	# Range: 3 ~ 3
+	beamWidth = 3
+	# Default: 60
+	# Range: 1 ~ 1200
+	beamActiveTicks = 60
+	#When true, beam-up pickup briefly levitates players before teleporting them above the projector.
+	enablePickupLevitation = true
+	#Delay before beam-up teleport when enablePickupLevitation is true.
+	# Default: 20
+	# Range: 1 ~ 200
+	pickupLevitationTicks = 20
+	#Vanilla Levitation effect amplifier used during beam-up pickup. 0 is Levitation I.
+	# Default: 0
+	# Range: 0 ~ 4
+	pickupLevitationAmplifier = 0
+	# Default: 60
+	# Range: 0 ~ 1200
+	deviceCooldownTicks = 60
+	# Default: 60
+	# Range: 0 ~ 1200
+	playerCooldownTicks = 60
+	# Default: 100
+	# Range: 0 ~ 1200
+	remoteCooldownTicks = 100
+	# Default: 16
+	# Range: 1 ~ 256
+	remoteHorizontalRadius = 16
+	#Temporary testing switch. Set true to enforce remoteHorizontalRadius again.
+	enforceRemoteRange = false
+	#Experimental visual selection. CREATE_ZAPPER_LASER uses Create's zapper laser renderer on the client; END_ROD_PARTICLES keeps the original server particle placeholder.
+	#Allowed Values: END_ROD_PARTICLES, CREATE_ZAPPER_LASER, BOTH
+	beamVisualStyle = "BOTH"
+	allowDownwardDeployment = true
+	#When true, players must be crouching while standing in the deploy area to beam downward.
+	requireCrouchForDownwardDeployment = true
+	#Reserved for later; v1 refuses cross-dimension teleportation.
+	allowCrossDimensionTeleport = false
+	#Reserved for later; v1 only teleports players.
+	teleportMobs = false
+	#Allowed Values: PULSE
+	redstoneActivationMode = "PULSE"
+	debugLogging = false

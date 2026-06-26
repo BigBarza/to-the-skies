@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "createbigcannons:guncotton"
+    }
+  ],
+  "result": {
+    "id": "musketmod:cartridge",
+    "count": 8
+  }
+}

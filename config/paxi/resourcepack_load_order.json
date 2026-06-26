@@ -1,0 +1,11 @@
+{
+  "loadOrder": [
+    "vanilla_tweaks.zip",
+    "stay_true.zip",
+    "immersive_interfaces.zip",
+    "immersive_interfaces_modded.zip",
+    "terralith_language_fix.zip",
+    "computer_craft_recreated.zip",
+    "better_drive_by_wire.zip"
+  ]
+}

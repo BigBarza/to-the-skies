@@ -1,0 +1,21 @@
+filename = 'watermedia-3.0.0-beta.13.jar'
+name = 'WATERMeDIA: Multimedia API'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.20.1', '1.21.1', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.0.0-beta.13'
+
+[download]
+hash = '29ad4dd50042ffdff68eb86cbe4816a8974ba44d6e16a6dfee6b37b20ee8c4007a19bfe8afda7e3e4a758d9a24938da559e9b523c901ea57582209ff7d16ab7c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G922NeHS/versions/esR9gGEe/watermedia-3.0.0-beta.13.jar'
+
+[update.modrinth]
+mod-id = 'G922NeHS'
+version = 'esR9gGEe'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4997XcoK'
+type = 'REQUIRED'

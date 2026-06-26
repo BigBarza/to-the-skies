@@ -1,0 +1,19 @@
+{
+   "type": "farmersdelight:cutting",
+   "ingredients": [
+      {
+         "item": "adorablehamsterpets:sunflower_block"
+      }
+   ],
+   "result": [
+      {
+         "item": {
+            "count": 4,
+            "id": "adorablehamsterpets:sunflower_seeds"
+         }
+      }
+   ],
+   "tool": {
+      "tag": "c:tools/knives"
+   }
+}

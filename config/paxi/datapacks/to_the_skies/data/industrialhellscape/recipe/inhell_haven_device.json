@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:stonecutter"
+    },
+    "A": {
+      "item": "simulated:engine_assembly"
+    },
+    "C": {
+      "item": "computercraft:computer_normal"
+    },
+    "W": {
+      "item": "create:wrench"
+    }
+  },
+  "pattern": [
+    " S ",
+    "ACA",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "industrialhellscape:inhell_haven_device"
+  }
+}

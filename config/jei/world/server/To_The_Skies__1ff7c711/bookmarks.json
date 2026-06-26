@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"glaidens_radio_mod:cellphone","components":{"minecraft:custom_data":{"number":"39001"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialhellscape:horizontal_vesselplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialhellscape:gray_rockrete"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialhellscape:inhell_haven_device"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bow","components":{"minecraft:damage":1,"minecraft:enchantments":{"levels":{"minecraft:power":6,"minecraft:mending":1,"minecraft:unbreaking":4,"minecraft:infinity":1}},"minecraft:repair_cost":3}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:extendo_grip","components":{"minecraft:enchantments":{"levels":{"minecraft:mending":1,"minecraft:unbreaking":3}},"minecraft:repair_cost":1}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

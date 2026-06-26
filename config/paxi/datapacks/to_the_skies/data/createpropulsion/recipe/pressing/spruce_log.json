@@ -1,0 +1,10 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    { "item": "minecraft:spruce_log" }
+  ],
+  "results": [
+    { "id": "createpropulsion:pine_resin" }
+  ]
+}

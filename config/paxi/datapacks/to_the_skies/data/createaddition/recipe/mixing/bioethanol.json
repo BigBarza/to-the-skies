@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "create:cinder_flour"
+    },
+    {
+      "item": "createaddition:biomass"
+    },
+    {
+      "item": "createaddition:biomass"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 75,
+      "fluid": "createdieselgenerators:ethanol"
+    }
+  ],
+  "results": [
+    {
+      "amount": 125,
+      "id": "createaddition:bioethanol"
+    }
+  ]
+}

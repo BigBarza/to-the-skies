@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "quark:ancient_log"
+    }
+  ],
+  "processing_time": 40,
+  "results": [
+    {
+      "id": "quark:stripped_ancient_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ]
+}

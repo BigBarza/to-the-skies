@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_block"
+    },
+    {
+      "tag": "c:dyes/red"
+    }
+  ],
+  "result": {
+    "id": "quark:red_corundum",
+    "count": 1
+  }
+}

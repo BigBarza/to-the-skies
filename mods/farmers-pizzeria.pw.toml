@@ -1,0 +1,33 @@
+filename = 'farmerspizzeria-1.1.0-neoforge-1.21.1.jar'
+name = "Farmer's Pizzeria"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = '3cf5a19980f3ce7c581b1084dc929ec96121135a97e8253ffcf62c0598fd956b29c3005d39c4403cc740028a796f0e11b3154b154dc9dea6cdf9bd06d7524ceb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L4BVXQ8I/versions/UeG8IjD7/farmerspizzeria-1.1.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'L4BVXQ8I'
+version = 'UeG8IjD7'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hIu9KJTT'
+type = 'REQUIRED'

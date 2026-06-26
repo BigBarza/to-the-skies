@@ -1,0 +1,20 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:generator_commutator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:creative_motor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:generator_induction_rotor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:generator_clutch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:copper_coil"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:generator_housing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:device_connector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:aviators_goggles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:transformer_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:wire_cutter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:multimeter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:creative_physics_staff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stone_pressure_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:white_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blue_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:red_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

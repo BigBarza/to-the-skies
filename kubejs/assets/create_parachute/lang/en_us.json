@@ -1,0 +1,23 @@
+{
+  "block.create_parachute.parachute_block": "Single Parachute",
+  "block.create_parachute.parachute_block_1": "Dual Parachute",
+  "block.create_parachute.mushroom_parachute": "?",
+  "block.create_parachute.big_parachute_block": "Large Parachute",
+  "item.create_parachute.parachute_block": "Single Parachute",
+  "item.create_parachute.parachute_block_1": "Dual Parachute",
+  "item.create_parachute.mushroom_parachute": "?",
+  "item.create_parachute.big_parachute_block": "Large Parachute",
+  "screen.create_parachute.parachute": "Parachute Controller",
+  "screen.create_parachute.drag": "Drag",
+  "screen.create_parachute.rot_drag": "Spin Drag",
+  "screen.create_parachute.disconnect_speed": "Cut Speed",
+  "screen.create_parachute.toggle_low_speed": "Low",
+  "screen.create_parachute.toggle_redstone": "RS",
+  "screen.create_parachute.save": "Save Config",
+  "screen.create_parachute.enabled": "Enabled",
+  "screen.create_parachute.disabled": "Disabled",
+  "screen.create_parachute.low_speed_state": "Low Speed Disconnect: %s",
+  "screen.create_parachute.redstone_state": "Redstone Disconnect: %s",
+  "itemGroup.create_parachute": "Create: Parachute",
+  "itemGroup.create_parachute.parachute": "Parachute"
+}

@@ -1,0 +1,22 @@
+filename = 'create_parachute-1.0.3.jar'
+name = 'Create: Parachute'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = '813799a1a18f0a5287f0af87b2db65a613867ff7ef3f14013998e263f256f7bfd0b5a8443ea4015e48c738005952b2e6e08c5b5577424773a527ab6b3b469780'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vnyV74Zs/versions/HcwEsFDe/create_parachute-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'vnyV74Zs'
+version = 'HcwEsFDe'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+version = '9iwrgmBq'

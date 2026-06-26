@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create_parachute:parachute_block_1"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create_parachute:big_parachute_block"
+  }
+}

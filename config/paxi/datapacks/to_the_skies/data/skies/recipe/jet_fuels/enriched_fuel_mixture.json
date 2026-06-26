@@ -1,0 +1,42 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "createaddition:bioethanol"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "createdieselgenerators:gasoline"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:enriched_fuel_mixture",
+      "amount": 2000
+    },
+    {
+     "id": "minecraft:gunpowder",
+      "chance": 0.75
+    },
+    {
+     "id": "minecraft:gunpowder",
+      "chance": 0.25
+    }
+  ]
+}

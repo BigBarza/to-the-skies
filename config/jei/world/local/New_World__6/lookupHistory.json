@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"cbc_at:ha_he_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cbc_at:steel_heavy_autocannon_barrel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cbc_at:he_item"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cbc_at:cluster_caseless","components":{"createbigcannons:power":3,"cbc_at:cluster_fuzes":[{"slot":0,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":1,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":2,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":3,"item":{"id":"createbigcannons:impact_fuze","count":1}}],"cbc_at:cluster_projectile":"tooltip.cbc_at.ha_he"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cbc_at:cluster_cartridge","components":{"createbigcannons:power":1,"cbc_at:cluster_fuzes":[{"slot":0,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":1,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":2,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":3,"item":{"id":"createbigcannons:impact_fuze","count":1}}],"cbc_at:cluster_projectile":"tooltip.cbc_at.ha_he"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cbc_at:cluster","components":{"cbc_at:cluster_fuzes":[{"slot":0,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":1,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":2,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":3,"item":{"id":"createbigcannons:impact_fuze","count":1}}],"cbc_at:cluster_projectile":"tooltip.cbc_at.ha_he"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

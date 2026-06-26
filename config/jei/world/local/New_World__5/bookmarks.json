@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"cbc_at:cluster","components":{"cbc_at:cluster_fuzes":[{"slot":0,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":1,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":2,"item":{"id":"createbigcannons:impact_fuze","count":1}},{"slot":3,"item":{"id":"createbigcannons:impact_fuze","count":1}}],"cbc_at:cluster_projectile":"tooltip.cbc_at.ha_he"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

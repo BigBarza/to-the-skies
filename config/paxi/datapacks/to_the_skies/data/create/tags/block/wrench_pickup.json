@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+	  "drivebywire:controller_hub",
+    "tracks:track_mount",
+    "create_parachute:parachute_block",
+    "create_parachute:parachute_block_1",
+    "create_parachute:mushroom_parachute",
+    "create_parachute:big_parachute_block",
+    "simulatedextra:centered_wheel_mount"
+  ]
+}

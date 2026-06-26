@@ -1,0 +1,4 @@
+#How much FE the flashlight can contain maximum
+# Default: 10000
+# Range: > 0
+flashlightCapacity = 10000

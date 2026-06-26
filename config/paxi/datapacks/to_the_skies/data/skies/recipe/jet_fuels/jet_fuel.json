@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 750,
+      "fluid": "kubejs:enriched_fuel_mixture"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "createpropulsion:turpentine"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:jet_fuel",
+      "amount": 1000
+    }
+  ]
+}

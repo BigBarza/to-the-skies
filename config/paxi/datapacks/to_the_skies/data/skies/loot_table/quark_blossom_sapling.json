@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "quark:blue_blossom_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quark:lavender_blossom_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quark:orange_blossom_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quark:yellow_blossom_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quark:red_blossom_sapling"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:spruce_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cbc_at:heavy_autocannon_empty_cartridge"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

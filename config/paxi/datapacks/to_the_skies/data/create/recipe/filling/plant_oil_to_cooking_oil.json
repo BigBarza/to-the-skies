@@ -1,0 +1,20 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 100,
+      "fluid_tag": "c:plantoil"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "rusticdelight:cooking_oil"
+      }
+    }
+  ]
+}
