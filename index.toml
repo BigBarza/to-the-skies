@@ -1393,6 +1393,18 @@ file = "config/paxi/datapacks/to_the_skies/data/create/tags/block/wrench_pickup.
 hash = "4e19c18708d61c6ac2132f4731de45e6cebd73e2918bb748caaedd249dfff4b3"
 
 [[files]]
+file = "config/paxi/datapacks/to_the_skies/data/create_alerted/alerted_alarms/factorio-alert-destroyed.json"
+hash = "bbbaeccd5a7ca748254f5f9840caad5893a29e44cb6159f0cfed618acc936174"
+
+[[files]]
+file = "config/paxi/datapacks/to_the_skies/data/create_alerted/alerted_alarms/rimatomics_liberator.json"
+hash = "4cb86dd40e275b183fb9cdc4b305bec018e9143e415f5fb5baf3231ad93a29d2"
+
+[[files]]
+file = "config/paxi/datapacks/to_the_skies/data/create_alerted/alerted_alarms/vfem_missile_launch.json"
+hash = "38c89fef071026e06ddd43b00664ae34eada8b59be58c542dad636fc74065fdb"
+
+[[files]]
 file = "config/paxi/datapacks/to_the_skies/data/create_parachute/loot_table/blocks/big_parachute_block.json"
 hash = "fb8d7f1c8133dccbedc75f69609530a2dd5da80629c53fb0e68b3158de7f31dd"
 
@@ -2347,6 +2359,18 @@ hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 [[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/create_alerted/sounds/factorio-alert-destroyed.ogg"
+hash = "39cc413852cc1cafd8bab04fef7cdd8f7ad4cd89ee447bf0fc10df9687bff67d"
+
+[[files]]
+file = "kubejs/assets/create_alerted/sounds/rimatomics_liberator.ogg"
+hash = "e633d6b37473ad467d9f162770ec4f996610c3ae6cd15bed06513a34cc2cb366"
+
+[[files]]
+file = "kubejs/assets/create_alerted/sounds/vfem_missile_launch.ogg"
+hash = "957470568b17473f7310d0320c3c3cbf9caf3a69c1b41cc82c93ab184e9b9db8"
 
 [[files]]
 file = "kubejs/assets/create_parachute/lang/en_us.json"
