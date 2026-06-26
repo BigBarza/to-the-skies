@@ -1,6 +1,6 @@
 filename = 'supermartijn642configlib-1.1.8-neoforge-mc1.21.jar'
 name = "SuperMartijn642's Config Lib"
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.21',

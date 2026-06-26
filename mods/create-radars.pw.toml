@@ -1,6 +1,6 @@
 filename = 'create_radar-0.4.9.4-1.21.1.jar'
 name = 'Create: Radars'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

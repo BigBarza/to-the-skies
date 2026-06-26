@@ -1,6 +1,6 @@
 filename = 'simulated_diagram_snapshots-1.0.3.jar'
 name = 'Simulated Diagram Snapshots'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

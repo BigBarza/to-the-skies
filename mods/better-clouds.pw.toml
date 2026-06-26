@@ -1,6 +1,6 @@
 filename = 'better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.jar'
 name = 'Better Clouds'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

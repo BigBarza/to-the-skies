@@ -1,6 +1,6 @@
 filename = 'reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar'
 name = "Reese's Sodium Options"
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1', '1.21.2', '1.21.2', '1.21.3', '1.21.3', '1.21.4', '1.21.4', '1.21.5', '1.21.5' ]
 x-prismlauncher-release-type = 'release'

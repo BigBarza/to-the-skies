@@ -1,6 +1,6 @@
 filename = 'create_hypertube-0.4.0-SABLE-COMPAT-NEOFORGE.jar'
 name = 'Create Hypertube'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

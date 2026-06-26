@@ -1,6 +1,6 @@
 filename = 'coolrain-1.21.1-NeoForge-1.0.1.jar'
 name = 'Cool Rain Reforged'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

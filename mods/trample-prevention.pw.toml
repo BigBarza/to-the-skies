@@ -1,6 +1,6 @@
 filename = 'trample_prevention-1.21.x-neoforge.jar'
 name = 'Trample Prevention'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.21',

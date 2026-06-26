@@ -1,6 +1,6 @@
 filename = 'create_simple_ore_doubling-1.6.0-neoforge-1.21.1.jar'
 name = 'Create: Simple Ore Doubling'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
