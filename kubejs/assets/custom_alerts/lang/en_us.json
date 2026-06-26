@@ -1,0 +1,13 @@
+{
+  "alarm_type.factorio_alert_destroyed": "Factorio: Destruction Alarm",
+  "subtitles.custom_alerts.factorio_alert_destroyed": "Alarm blaring",
+  
+  "alarm_type.factorio_silo_alarm": "Factorio: Silo Alarm",
+  "subtitles.custom_alerts.factorio_silo_alarm": "Alarm blaring",
+
+  "alarm_type.rimatomics_liberator": "Rimatomics: Liberator Launch",
+  "subtitles.custom_alerts.rimatomics_liberator": "Alarm blaring",
+
+  "alarm_type.vfem_missile_launch": "VFEM: Missile Launch",
+  "subtitles.custom_alerts.vfem_missile_launch": "Alarm blaring"
+}

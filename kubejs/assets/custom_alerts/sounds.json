@@ -1,0 +1,26 @@
+{
+  "factorio_alert_destroyed": {
+    "subtitle": "subtitles.custom_alerts.factorio_alert_destroyed",
+    "sounds": [
+      "custom_alerts:factorio_alert_destroyed"
+    ]
+  },
+  "factorio_silo_alarm": {
+    "subtitle": "subtitles.custom_alerts.factorio_silo_alarm",
+    "sounds": [
+      "custom_alerts:factorio_silo_alarm"
+    ]
+  },
+  "rimatomics_liberator": {
+    "subtitle": "subtitles.custom_alerts.factorio_silo_alarm",
+    "sounds": [
+      "custom_alerts:rimatomics_liberator"
+    ]
+  },
+  "vfem_missile_launch": {
+    "subtitle": "subtitles.custom_alerts.factorio_silo_alarm",
+    "sounds": [
+      "custom_alerts:vfem_missile_launch"
+    ]
+  }
+}
