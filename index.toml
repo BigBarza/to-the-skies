@@ -2620,7 +2620,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
-hash = "d7f88daa80b34c3e8786994d92f272814921bb031eaa57f52ae14b3255b125a3"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
@@ -2689,7 +2689,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-catalysts.pw.toml"
-hash = "f0d4819be5b614fd4fc98c32865cb1619278675e0c419a5cb8c790e2e6c0dc07"
+hash = "3148f04fc9fc949cd4ce610d690fb1dc2abd710eddc3d7d29f40c31cc110fab2"
 metafile = true
 
 [[files]]
@@ -2954,7 +2954,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "abd9de0456bd41d0a274097472164d4c8e6fc826370d606d104aa310b27d0de7"
+hash = "e7a76c4a959e5bcef5791454ef5b25f1c778e10906ae730418f9a250b22573c8"
 metafile = true
 
 [[files]]
@@ -2964,7 +2964,7 @@ metafile = true
 
 [[files]]
 file = "mods/createparachute.pw.toml"
-hash = "797b8182c6982b00ed290063f1ea91c58b614a5e4af2797b5e8a5ae0283fd0a1"
+hash = "1ac657a33d4d38a9882612bc2c22b7df5e8f4599c86c84baf5ef3a9f2713a4fa"
 metafile = true
 
 [[files]]
@@ -3028,7 +3028,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-wiretypewriter.pw.toml"
-hash = "ad08ec480842461f3304c68c73a7e4edbae4b6ce6d95e82cffcc28edea3b2a64"
+hash = "aaccc221746d32bb5baebfb22a1468526cee308ce2210a434a8b36a486ca37b8"
 metafile = true
 
 [[files]]
@@ -3228,7 +3228,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9c5ab2535942559717a9ade4594c82c6e8a94ec5d4378e33710aacd4620d7c77"
+hash = "0295efdf6da730b9bbcb384b30af36cde2256dba776d99bf54aa9d1c6233cb5a"
 metafile = true
 
 [[files]]
@@ -3238,7 +3238,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-sable-compat.pw.toml"
-hash = "be03dd9fa74bfac919db93e5aa9be61d30b1eb513d56065fa58d4541307a0b39"
+hash = "95b23d70ac5e1519e3435c2553fc1b3a7a02bb983b41cc729601a748fb211c0e"
 metafile = true
 
 [[files]]
@@ -3268,7 +3268,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "d48c4aca59f2bd8e6946939aac09db0564ea21407ea1e176b4ab384557f0a926"
+hash = "2c4d37f9256d17659780b5aba5a3fa16828a16d7c16784a5d1beb675b5126f46"
 metafile = true
 
 [[files]]
@@ -3653,7 +3653,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "97e3e84de7dd644282fb27e4b2d2b057186677808581cb19431c6ab65d9d5462"
+hash = "063fe930a08f47f02e7aa2c274661550d9a0376e767176999962b8182f9eb269"
 metafile = true
 
 [[files]]
@@ -3698,7 +3698,7 @@ metafile = true
 
 [[files]]
 file = "mods/trample-prevention.pw.toml"
-hash = "b86a396297f8a7270c812b98d03729777060128b1034ac0cd0e9ffd89b100a5d"
+hash = "15069e3a3e59106132adff60b2681c0ecd260925437d05eaf6a69886a0d8c57f"
 metafile = true
 
 [[files]]
@@ -3768,7 +3768,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
-hash = "39c534521ee00940d076cf67dec55dc5de98b56771908bdbb43aee1f04cbe128"
+hash = "0f0c49bcf793160f9cbd022baaeacabd66a47a3533fbb31687d1ed59a9a2ed58"
 metafile = true
 
 [[files]]
