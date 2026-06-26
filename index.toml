@@ -3178,7 +3178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "4b5e9af0a9331a64cea48d09acb278d487a987475f7630458b9b072753fd2da0"
+hash = "0cd187339cf31500d7ab3ca89e366f91077beb90a9062dbad3ceea02873e38b0"
 metafile = true
 
 [[files]]
@@ -3543,12 +3543,12 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
-hash = "b2ce36a37ab4a4017e678a696c7a6c580d74f4c6cd91792650877a69e38e443f"
+hash = "f7758221468760a7d22b31f97e822f5a66fa1fa21d2c8b4b3bb21ca01faff3cd"
 metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "c4eac5138a72573eeb3ca9fbb28ae05783d263d890e1a73e095072a64a78abef"
+hash = "55fcb8b7508262d7e384f81dc86c0cf0c28ec98194d2dd842208b96291931c0c"
 metafile = true
 
 [[files]]
