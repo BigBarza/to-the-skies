@@ -2738,6 +2738,10 @@ hash = "ff3d03eb7964d5067345fa490b905f769530e294ad69030be268ce0dbc8a41da"
 metafile = true
 
 [[files]]
+file = "mods/computed-nightly-1.0.0-2c0b618e.jar"
+hash = "5b30c04d40435d2d0b78b17e3eec84291c1f0c884451ebfde048a183227f1eb0"
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "21e4c2af9f7e12b7047a364cc8e9428c340b316ec7e005b5411c6a9e30f1b504"
 metafile = true
