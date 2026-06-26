@@ -2569,6 +2569,11 @@ hash = "80d2aa3957c9a1aefcaf01cba4ed61e214437d97c6e0c3605f3c9efef5824618"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "007755a0b16c194fdadddd25b129ed9eb739081d9d6363ac21fb2a7c9298b6ba"
 metafile = true
@@ -3677,6 +3682,11 @@ hash = "b698da79ef86125f1a97b96ef686a2162e2dc73d340d0ead8221d30c497481e9"
 metafile = true
 
 [[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "063fe930a08f47f02e7aa2c274661550d9a0376e767176999962b8182f9eb269"
 metafile = true
@@ -3688,7 +3698,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "039a71011f455c24c9ccc7b38ef6f01561992a77a5d0c21f75dc01f70b42b1e2"
+hash = "aaa617429188140852f1a674143a912d30c7da11d87f4b4370bf95b1ae8b1a28"
 metafile = true
 
 [[files]]
