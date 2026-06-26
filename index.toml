@@ -2504,6 +2504,11 @@ hash = "46be157533693ebafb35f0de354d2abfa03fbc72f5cf8f1ada202c4843e904d9"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
+metafile = true
+
+[[files]]
 file = "mods/allurement!.pw.toml"
 hash = "c8287f18eadcbc88c6226abeef1be831cb8a3c353602e1f546f191b0d1daca90"
 metafile = true
