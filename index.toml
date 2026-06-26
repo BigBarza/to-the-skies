@@ -698,7 +698,7 @@ hash = "1791cfc5dea19aca5846d933ea99d0f3d108f1dfe5eb38bdb1c5d04872deac78"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
-hash = "887b204745db8987550cdf3a9bb2680048db71d1ca8f69407fcfb8e48cfa547d"
+hash = "e827136c9206575db209b66f4c219362b6a53f0d7abbf09f07805b7d2865d271"
 
 [[files]]
 file = "config/doubledoors.json5"
