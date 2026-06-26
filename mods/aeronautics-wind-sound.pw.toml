@@ -1,14 +1,13 @@
-filename = 'aeronautics_windsound-1.0.0.jar'
-name = 'Aeronautics Wind Sound'
-side = 'client'
+name = "Aeronautics Wind Sound"
+filename = "aeronautics_windsound-1.0.1.jar"
+side = "client"
 
 [download]
-hash = '82d4e637b329950558896d7c461902fb626d16748e6599efee7c74d48782b438eb12f5f4a429862f3f6f26b452ab10cf3a462f8d7bec7f858480cc5999511115'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/XU9MYvTx/versions/Hd8uJxg5/aeronautics_windsound-1.0.0.jar'
+url = "https://cdn.modrinth.com/data/XU9MYvTx/versions/9p7pjRKb/aeronautics_windsound-1.0.1.jar"
+hash-format = "sha512"
+hash = "2a0cab5a1ca696443677a8b9b41c4ebf4a92deffde8c61ae7a02ebb576690161f7c19daab9cf7b95a52628d017ef6b25304354997d3893410363c6b1b0e32ee9"
 
+[update]
 [update.modrinth]
-mod-id = 'XU9MYvTx'
-version = 'Hd8uJxg5'
-
+mod-id = "XU9MYvTx"
+version = "9p7pjRKb"
