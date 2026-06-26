@@ -1,6 +1,6 @@
 filename = 'mace3d-1.2.0-1.21.1+neoforge.jar'
 name = 'Awesome 3D Mace'
-side = 'both'
+side = 'client'
 
 [download]
 hash = '749ffed3e5b1123d62b2ddc75407c4f8994337efff816b03b35b9a85696c5715c8bb72f592021e77b111a96bae023bca043220e7f6f6a600a4657e99c1583d87'

@@ -1,3 +1,4 @@
+/*
 ServerEvents.recipes(event => {
     // Convert AHP items to KubeJS equivalents
     const conversions = [
@@ -18,3 +19,4 @@ ServerEvents.recipes(event => {
         event.replaceOutput({ mod: 'adorablehamsterpets' }, original, replacement)
     }
 })
+    */

@@ -1,4 +1,5 @@
 // Listen to item registry event
+/*
 StartupEvents.registry('item', event => {
   console.info("Adding replacements for hampter mod's fuckass items...")
 
@@ -10,3 +11,4 @@ StartupEvents.registry('item', event => {
   event.create('steamed_green_beans')
 
 })
+  */

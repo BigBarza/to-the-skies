@@ -614,7 +614,7 @@ hash = "272a26a609dd58f7d25a7493a6b75452e79c3b603073c8412c6c34f72f2eaf9b"
 
 [[files]]
 file = "config/createpropulsion-common.toml"
-hash = "d953951c07baf0cebbf7ff08423c5e5e39af87f0dcb99d46e4a359740e5137fa"
+hash = "681b3374e40d05c96b3528191ab43d1216bf9f887c1353e3aa984b645c0da5d2"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
@@ -698,7 +698,7 @@ hash = "1791cfc5dea19aca5846d933ea99d0f3d108f1dfe5eb38bdb1c5d04872deac78"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
-hash = "a78d808bdafbc48c30ac95fd4416488e7457af6db8801bae8606d9d8f2d4a6d8"
+hash = "887b204745db8987550cdf3a9bb2680048db71d1ca8f69407fcfb8e48cfa547d"
 
 [[files]]
 file = "config/doubledoors.json5"
@@ -2426,15 +2426,15 @@ hash = "92f678a813af926c9ecc8ce701fa7c460e998eb36d4395d36b7da18f50940ea3"
 
 [[files]]
 file = "kubejs/server_scripts/entityTags.js"
-hash = "928e8b73fc8169ac98ac455dc013f52739ab159da9cfae0918e59e05a3f65166"
+hash = "f81f4d92b41189b22a854dbb8b69853c33d9833983b7c9c28b026014a6ef4246"
 
 [[files]]
 file = "kubejs/server_scripts/hamster_conversions.js"
-hash = "42a1edb762f93414a607749209503a483a15774f0ab04e51ff4bc6c03efe6400"
+hash = "f43bab8d1a44c48d7490279559f0311555c9fe6c77915c7d74c3aaf3cccb2639"
 
 [[files]]
 file = "kubejs/server_scripts/hamster_loot_conversions.js"
-hash = "821b12cfb0e218c7228671553d0b7bb8936dcd0e1308b759967ec2c092eeee73"
+hash = "ac74a36b43c49691701e87b297122deb3b93575f17c212e09decb3e5192c8348"
 
 [[files]]
 file = "kubejs/server_scripts/linear_bearing_drop.js"
@@ -2450,11 +2450,11 @@ hash = "bac16ea8bcc0b86430159f3c255d748f06a6eb66bd1a6b49c65f4f2be33e80ff"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_disables.js"
-hash = "b8f57ed33144ee8f8fa6511c09c8febab1ab312816acdc065e3f3bb8dd533a2c"
+hash = "6e5ebfdae3d6124340a41c7e3f2deafe0757dc13e33df05524bd670cf0cfe246"
 
 [[files]]
 file = "kubejs/startup_scripts/hamter_replacements.js"
-hash = "e6a7b3fcb7755264d2e793208dcfb9aa3c44c5900e30144da756bccf9a37c1c1"
+hash = "47fd6e05b8d3964cd91cd75d7ff1571c36011da322a5d6f42ac61c93a5078e8b"
 
 [[files]]
 file = "kubejs/startup_scripts/jet_fuels.js"
@@ -2541,7 +2541,7 @@ metafile = true
 
 [[files]]
 file = "mods/awesome-3d-mace.pw.toml"
-hash = "99e1322aae4aa2ef529d9193892cf963dd88f5b92064033990af3de7707bfa9b"
+hash = "80d2aa3957c9a1aefcaf01cba4ed61e214437d97c6e0c3605f3c9efef5824618"
 metafile = true
 
 [[files]]
@@ -2684,11 +2684,6 @@ hash = "7bc6b2c74348a2aa735a7f9b68d7fd309a511211d68947a01dc6c4fe21ec64eb"
 metafile = true
 
 [[files]]
-file = "mods/colorful-catalysts.pw.toml"
-hash = "3148f04fc9fc949cd4ce610d690fb1dc2abd710eddc3d7d29f40c31cc110fab2"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "e72deb217e07bbef058339a4f6ddd094600a3629b04f01d807878f4cbe8ca964"
 metafile = true
@@ -2700,7 +2695,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "9af3259bfc3103709b6e289b0c2a472f3e742a815282c7893c0b0fe8c0d92aec"
+hash = "21e4c2af9f7e12b7047a364cc8e9428c340b316ec7e005b5411c6a9e30f1b504"
 metafile = true
 
 [[files]]
@@ -2796,6 +2791,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "c24587eb6550b5183cfcead95c42452eb96b3d697939a8d99593e853c61992dc"
+metafile = true
+
+[[files]]
+file = "mods/create-alerted.pw.toml"
+hash = "e675780c9bda71ea063affe6f3739c0b3f65ce93e18b922809e3f75f2c5954e7"
 metafile = true
 
 [[files]]
@@ -3139,7 +3139,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "91d7a76300ca1326d330e825cad393f0ba32c68e3b4090e2fe3a8024d6673747"
+hash = "a13cd66150377642ef92eb2c6e103db66250abca9b2f4adf6a3b0bcbf3173b32"
 metafile = true
 
 [[files]]
@@ -3149,7 +3149,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "a92cd696743fabb78f07fbfbcdf07cc8e38e9db62d8464024b731c8973539943"
+hash = "4b5e9af0a9331a64cea48d09acb278d487a987475f7630458b9b072753fd2da0"
 metafile = true
 
 [[files]]
@@ -3555,6 +3555,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "dfc397b5fb47175b651f2ae92bdaf65c5b60a8cb316dd62e54f66f47c6beb60f"
+metafile = true
+
+[[files]]
+file = "mods/sable-cleanup.pw.toml"
+hash = "68371510cc1684d2320bbff83280f8e775fb5fa6d00252b0e3d7a893a18690ca"
 metafile = true
 
 [[files]]
