@@ -2569,11 +2569,6 @@ hash = "80d2aa3957c9a1aefcaf01cba4ed61e214437d97c6e0c3605f3c9efef5824618"
 metafile = true
 
 [[files]]
-file = "mods/azimuth-api.pw.toml"
-hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
-metafile = true
-
-[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "007755a0b16c194fdadddd25b129ed9eb739081d9d6363ac21fb2a7c9298b6ba"
 metafile = true
@@ -2844,7 +2839,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "01b5a18e7163db325013631b5324db2d8d263abe5d10f5b9a1849d469d4089c3"
+hash = "106c6d6cef62305fb3368c7261c551c278fccc56d13ed26c079eb3f18f95c328"
 metafile = true
 
 [[files]]
@@ -3679,11 +3674,6 @@ metafile = true
 [[files]]
 file = "mods/stellarview.pw.toml"
 hash = "b698da79ef86125f1a97b96ef686a2162e2dc73d340d0ead8221d30c497481e9"
-metafile = true
-
-[[files]]
-file = "mods/strut-your-stuff.pw.toml"
-hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
 metafile = true
 
 [[files]]
