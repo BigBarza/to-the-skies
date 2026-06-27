@@ -1,13 +1,13 @@
-filename = 'drivebywire-typewriter-1.0.2.jar'
-name = 'Drive By Wire - Typewriter'
-side = 'both'
+name = "Drive By Wire - Typewriter"
+filename = "drivebywire-typewriter-1.1.0-beta.1.jar"
+side = "both"
 
 [download]
-hash = 'b5f0fd8a8bf7b02a71a21543665349fb0534bc0ed4810ebc3cc70e592e8db939f8a4681cce4fcd9b6d024c5e5269463ae0ed1c20fbe88ba1ade24a6da6072477'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/lDYpnxit/versions/px0T1v29/drivebywire-typewriter-1.0.2.jar'
+url = "https://cdn.modrinth.com/data/lDYpnxit/versions/VBil0Xf3/drivebywire-typewriter-1.1.0-beta.1.jar"
+hash-format = "sha512"
+hash = "b4ff18ef282fe7cf852c395acf15f6acec019cc70295ac86b34db1e58e06dc09b7c64606d2e103ec3d5bbc7ed2a7eda17febc9f7d00933f43c50391cfbc4de48"
 
+[update]
 [update.modrinth]
-mod-id = 'lDYpnxit'
-version = 'px0T1v29'
+mod-id = "lDYpnxit"
+version = "VBil0Xf3"

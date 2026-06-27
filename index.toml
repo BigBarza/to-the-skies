@@ -2754,10 +2754,6 @@ hash = "ff3d03eb7964d5067345fa490b905f769530e294ad69030be268ce0dbc8a41da"
 metafile = true
 
 [[files]]
-file = "mods/computed-nightly-1.0.0-2c0b618e.jar"
-hash = "5b30c04d40435d2d0b78b17e3eec84291c1f0c884451ebfde048a183227f1eb0"
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "21e4c2af9f7e12b7047a364cc8e9428c340b316ec7e005b5411c6a9e30f1b504"
 metafile = true
@@ -2954,7 +2950,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sable-pallets.pw.toml"
-hash = "8ac585023c5e94204ea58d7f6351a8342f1afb488603bdcb092fd4076b9efef7"
+hash = "456af640c5551f9f4e77ca8b15acb6f66620e9a83a014dddc555464c63a7cfa6"
 metafile = true
 
 [[files]]
@@ -3028,7 +3024,7 @@ hash = "87b6b3fb66c5c9c6b70b2f2ad79a7358808a16344e5f05d136b0836bdd0c706d"
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
-hash = "cc0fd430fdd6d21156c74982187cede29cc22fdceb7c2d20dee7d32a0b77b0f4"
+hash = "3f4a84b4344b129792d44a66fd0809d3f58a903707848b6905b493759814034d"
 metafile = true
 
 [[files]]
@@ -3083,7 +3079,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-wiretypewriter.pw.toml"
-hash = "aaccc221746d32bb5baebfb22a1468526cee308ce2210a434a8b36a486ca37b8"
+hash = "761ceb58f949a4d11bdd2b66075bd18e4f5f0028034defed0abeff4a70f2578a"
 metafile = true
 
 [[files]]
@@ -3208,7 +3204,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "0cd187339cf31500d7ab3ca89e366f91077beb90a9062dbad3ceea02873e38b0"
+hash = "0e79bdc0e20758b00f330867f389e57cd9046496da89fcd37701789443f96d24"
 metafile = true
 
 [[files]]
@@ -3333,7 +3329,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "639d958f662f16a06563e6ba2d17fee91f4126fce751a4f3ba517d11b761fd88"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
@@ -3343,7 +3339,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2016ada8d1121cb4e82a28ea71b78a11310ffd539c42d33d6babab70c861dbd8"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
@@ -3443,7 +3439,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bf3757240109ab1b642e90a8905454aa1ee715d76c55e979f51e96af6f4d07c9"
+hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
 metafile = true
 
 [[files]]
