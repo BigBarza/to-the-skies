@@ -1393,6 +1393,22 @@ file = "config/paxi/datapacks/to_the_skies/data/create/tags/block/wrench_pickup.
 hash = "4e19c18708d61c6ac2132f4731de45e6cebd73e2918bb748caaedd249dfff4b3"
 
 [[files]]
+file = "config/paxi/datapacks/to_the_skies/data/create_alerted/alerted_alarms/factorio_alert_destroyed.json"
+hash = "62b053301087cbd7767ab2c95a9ebe76992c49b0de8634b4b970a8927de67197"
+
+[[files]]
+file = "config/paxi/datapacks/to_the_skies/data/create_alerted/alerted_alarms/factorio_silo_alarm.json"
+hash = "9d75ab250dbfa9fa02282b9959ee6b7a6c88788b9ade5aa0768b26b0026483ad"
+
+[[files]]
+file = "config/paxi/datapacks/to_the_skies/data/create_alerted/alerted_alarms/rimatomics_liberator.json"
+hash = "d4bda59a3e124631ddcb41888508391170e5a059067c6373460cdf88751e40b5"
+
+[[files]]
+file = "config/paxi/datapacks/to_the_skies/data/create_alerted/alerted_alarms/vfem_missile_launch.json"
+hash = "56699659f437a032c508cc97b60f90640cc546d5d83dd7708f8156a999672b0b"
+
+[[files]]
 file = "config/paxi/datapacks/to_the_skies/data/create_parachute/factorio_alert_destroyed.json"
 hash = "62b053301087cbd7767ab2c95a9ebe76992c49b0de8634b4b970a8927de67197"
 
