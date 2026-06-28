@@ -698,7 +698,7 @@ hash = "1791cfc5dea19aca5846d933ea99d0f3d108f1dfe5eb38bdb1c5d04872deac78"
 
 [[files]]
 file = "config/does_it_tick-common.toml"
-hash = "e827136c9206575db209b66f4c219362b6a53f0d7abbf09f07805b7d2865d271"
+hash = "fb732b7a3334c3ce51045120b3c59ccdacd768ab931076e26150cb583c040764"
 
 [[files]]
 file = "config/doubledoors.json5"
@@ -3553,6 +3553,11 @@ hash = "d2e3529c4cfa7a70723a27661b5c64a8c64618f69806260d5f6d2f61160e17d1"
 metafile = true
 
 [[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "f7758221468760a7d22b31f97e822f5a66fa1fa21d2c8b4b3bb21ca01faff3cd"
 metafile = true
@@ -3600,6 +3605,16 @@ metafile = true
 [[files]]
 file = "mods/sable-cleanup.pw.toml"
 hash = "68371510cc1684d2320bbff83280f8e775fb5fa6d00252b0e3d7a893a18690ca"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdoll-corpse.pw.toml"
+hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
