@@ -1,0 +1,13 @@
+name = "Lever drugster"
+filename = "lever-drugster-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GQNtImhh/versions/bEnOcdff/lever-drugster-1.8.0.jar"
+hash-format = "sha512"
+hash = "4747d4f95cb801ba5b691f333a1d768c3693d0f0c6cbdbc95cf56c49aa2702560b42a22179772151743805a269a7b811433fe58da56e4080ff54d037ba8c5ee3"
+
+[update]
+[update.modrinth]
+mod-id = "GQNtImhh"
+version = "bEnOcdff"
