@@ -2715,7 +2715,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "3e51965166c568e9b2becb42a9cd8dbe9335deeed83e3224766ecfaf8cefa1ff"
+hash = "fc10254a421cfcc272ce6c24398a3229f00c68b15b7607b757693b864e5bfbd5"
 metafile = true
 
 [[files]]
@@ -2781,21 +2781,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "6da77ef296399054be18ad34767e45b480502e449df070bc9152b2bad3c3a583"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
-hash = "7e58ec6901bc6cbc2110c3a82377e98dd7c89b830925d1c78f95de8c81beedbb"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "fa3f8785b975147b66af1d1ccdfce6b6b15858c7ee98dc1dbd65193c191f4fa4"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "f9749008618e52aa1b729f8af252c30f7da05bca9edb800fd68d9ffeec16d6d3"
 metafile = true
 
 [[files]]
@@ -3005,7 +2990,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "e7a76c4a959e5bcef5791454ef5b25f1c778e10906ae730418f9a250b22573c8"
+hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
@@ -3015,7 +3000,7 @@ metafile = true
 
 [[files]]
 file = "mods/createparachute.pw.toml"
-hash = "1ac657a33d4d38a9882612bc2c22b7df5e8f4599c86c84baf5ef3a9f2713a4fa"
+hash = "f00a39db4e544198b94b717c5eb8c32493888b286aebb4f2c345cedecf27b804"
 metafile = true
 
 [[files]]
@@ -3254,7 +3239,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "76bda8b7c3175a488387c916541200bf0b8c1b22b19a1a295b0a43d8ffb48f45"
+hash = "8a0b48ae5055892c3ed4dc7f3f4b5fb035536f030dd3af9ed0ed607522bb14d8"
 metafile = true
 
 [[files]]
